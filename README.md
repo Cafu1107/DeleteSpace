@@ -1,2 +1,2 @@
 # DeleteSpace
-This code delet your spaces at txt files.
+This code delete your spaces at txt files.
